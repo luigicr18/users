@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Je, the Peguis",
+      "age": 31,
+      "companyId": "1"
+    },
+    {
+      "id": "20",
+      "firstName": "Damaris",
+      "age": 50,
+      "companyId": "1"
+    },
+    {
+      "id": "40",
+      "firstName": "Joaquin",
+      "age": 71,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Malu",
+      "age": 5,
+      "id": "he6Wbeb"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
+  ]
+}
